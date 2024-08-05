@@ -1,37 +1,42 @@
-# Computer Theory
+# Summary of Concepts
 
-A repository for organizing and sharing key theoretical concepts and principles in computer science.
+## Introduction
 
-## Concepts
+Rather than focusing on basic concepts, I organized information I didn't know while studying. I hope you all enjoy using it to your heart's content.
 
-- **Data Structures and Algorithms**
-  - Fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs) and algorithms (sorting, searching, dynamic programming, graph algorithms).
+## Table of Contents
 
-- **Artificial Intelligence**
-  - Concepts related to AI including machine learning algorithms, neural networks, and natural language processing.
+### **Hardware**
+[Hardware](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Hardware)
 
-- **Operating Systems**
-  - Principles and design of operating systems including process management, memory management, file systems, and concurrency.
+This section includes comprehensive notes and resources on various hardware concepts and architectures. Topics covered include computer architecture, system hardware, and more.
 
-- **Computer Architecture**
-  - Structure and behavior of the computer system including CPU architecture, memory hierarchy, and input/output mechanisms.
+### **Natural Language Processing**
+[Natural Language Processing](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Natural%20language%20processing)
 
-- **Software Engineering**
-  - Processes and methodologies including project planning and management, requirements analysis, design principles, coding practices, testing, and maintenance.
+This section contains notes and resources related to Natural Language Processing (NLP). It covers fundamental NLP concepts, techniques, and applications.
 
-- **Signals and Systems**
-  - Theoretical foundations of signals and systems including signal representation, Fourier transforms, and system analysis.
+### **R**
+[R](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/R)
 
-## Contribution
+This section provides notes and resources on the R programming language, including syntax, data manipulation, and statistical analysis.
 
-If you would like to contribute to this repository, please follow the [Contribution Guidelines](https://github.com/justinbrianhwang/computer-science).
+### **Signals and Systems**
+[Signals and Systems](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Signals%20and%20Systems)
 
-## License
+This section summarizes the book **"Continuous and Discrete Signals and Systems"** by **Samir S. Soliman** and **Mandyam D. Srinath**. It covers topics such as signal representation, continuous-time systems, Fourier analysis, and filter design.
 
-This repository is distributed under the [MIT License](https://github.com/justinbrianhwang/computer-science).
+### **Software Engineering**
+[Software engineering](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Software%20engineering)
 
-## Contact
+This section organizes notes and materials summarizing the book **"All About Software Engineering"** by **Choi Eun-man**. It includes topics like software development processes, project management, requirements analysis, design principles, and testing.
 
-- Email: [sunjun7559@gmail.com](mailto:sunjun7559@gmail.com)
-- GitHub: [github.com/justinbrianhwang](https://github.com/justinbrianhwang)
+### **Data structure & Algorithm**
+[Data structure & Algorithm](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Data%20Structure%20%26%20Algorithm)
 
+This section contains notes and resources related to Data Structures and Algorithms. It covers fundamental concepts, techniques, and applications related to various data structures and algorithms.
+
+
+---
+
+Thank you for using this resource. We hope it proves to be a valuable aid in your studies. If you have any suggestions or contributions, please feel free to make a pull request or contact us.
