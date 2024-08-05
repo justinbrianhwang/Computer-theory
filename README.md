@@ -18,7 +18,6 @@ A repository for organizing and sharing key theoretical concepts and principles 
 
 - **Software Engineering**
   - Processes and methodologies including project planning and management, requirements analysis, design principles, coding practices, testing, and maintenance.
-  - [Link to detailed notes](https://github.com/justinbrianhwang/computer-science/tree/main/Summary%20of%20concepts/Software%20engineering)
 
 - **Signals and Systems**
   - Theoretical foundations of signals and systems including signal representation, Fourier transforms, and system analysis.
