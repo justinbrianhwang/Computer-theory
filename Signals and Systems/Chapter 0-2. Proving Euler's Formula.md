@@ -12,7 +12,7 @@ $$
 
 Here, $j$ represents the number $\sqrt{-1}$. In calculus or higher mathematics, it is denoted by $i$, but in signals and systems, it is denoted by $j$ to avoid confusion with current.
 
-At first glance, the above formula might seem confusing. Let's recall the Maclaurin series we learned in calculus, which is the Taylor series at $x=0$. We will express the Maclaurin series for the basic functions $e^x,~\sin x,~\cos x$.
+At first glance, the above formula might seem confusing. Let's recall the Maclaurin series we learned in calculus, which is the Taylor series at $x=0$. We will express the Maclaurin series for the basic functions $e^x, ~\sin x, ~\cos x$.
 
 $$
 e^x = \sum_{k=0}^{\infty} \frac{1}{k!} x^k 
