@@ -41,7 +41,9 @@ This directory is a quick math overview of big math concepts with a focus on art
 If you need more in-depth study or research on each math topic, you can go to the links and study them. 
 
 [Linear algebra](https://github.com/justinbrianhwang/Mathematics/tree/main/Linear%20algebra)
+
 [Introduction to Statistics](https://github.com/justinbrianhwang/Mathematics/tree/main/Introduction%20to%20Statistics)
+
 [Engineering mathematics](https://github.com/justinbrianhwang/Mathematics/tree/main/Engineering%20mathematics)
 
 
