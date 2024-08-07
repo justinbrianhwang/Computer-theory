@@ -80,7 +80,7 @@ Adding or deleting nodes is similar to a singly linked list.
 You can view the C files I wrote for these linked lists by clicking the following links. These functions are my creations, though there may be similar code by others. If you use my code, please credit the source.
 
 [Doubly Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/Doubly%20LinkedList)
-
+[Circular Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/Circular%20LinkedList)
 
 
 # Korean
@@ -175,7 +175,7 @@ You can view the C files I wrote for these linked lists by clicking the followin
 해당 리스트들도 다음 링크를 누르면 내가 짜놓은 C 파일을 볼 수 있을 것이다. 해당 함수들은 내가 만든 것이며, 다른 사람들의 코드를 참고한 적은 없으나, 비슷한 경우가 있을 수는 있다. 내가 짜놓은 코드들을 쓰는 것은 좋으나, 출처를 밝혀주면 좋을 것 같다.
 
 [Doubly Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/Doubly%20LinkedList)
-
+[Circular Linked List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/Circular%20LinkedList)
 
 
 
