@@ -29,7 +29,7 @@ Deleting the second element:
 
 You can view the C file I wrote for the array list implementation by clicking the following link. These functions are my creations, though there may be similar code by others. If you use my code, please credit the source.
 
-[]()
+[Array List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/arraylist)
 
 ### Linked List
 
@@ -118,7 +118,7 @@ You can view the C files I wrote for these linked lists by clicking the followin
 
 배열 리스트는 다음 링크를 누르면 내가 짜놓은 C 파일을 볼 수 있을 것이다. 해당 함수들은 내가 만든 것이며, 다른 사람들의 코드를 참고한 적은 없으나, 비슷한 경우가 있을 수는 있다. 내가 짜놓은 코드들을 쓰는 것은 좋으나, 출처를 밝혀주면 좋을 것 같다.
 
-[]()
+[Array List](https://github.com/justinbrianhwang/A-collection-of-data-structures-and-algorithm-functions/tree/main/arraylist)
 
 ### 연결 리스트
 
