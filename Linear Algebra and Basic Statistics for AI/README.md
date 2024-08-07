@@ -38,7 +38,11 @@ This directory is a basic summary of linear algebra for artificial intelligence 
 
 ---
 This directory is a quick math overview of big math concepts with a focus on artificial intelligence. It is not intended to be the entirety of the subject, and we hope it will help you in your development. 
+If you need more in-depth study or research on each math topic, you can go to the links and study them. 
 
+[Linear algebra](https://github.com/justinbrianhwang/Mathematics/tree/main/Linear%20algebra)
+[Introduction to Statistics](https://github.com/justinbrianhwang/Mathematics/tree/main/Introduction%20to%20Statistics)
+[Engineering mathematics](https://github.com/justinbrianhwang/Mathematics/tree/main/Engineering%20mathematics)
 
 
 
