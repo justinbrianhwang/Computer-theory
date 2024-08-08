@@ -7,10 +7,12 @@ The name statistics comes from the Latin word status, which means "state".
  
 ![Stat](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-**Statistics** is a branch of mathematics that studies how to observe, organize, and analyze large amounts of data, often based on arithmetic methods. 
-The name statistics comes from the Latin word status, which means "state".  
+**Common research procedures in statistics**
 
-![Stat](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![process[(https://i.imgur.com/z2BX0fz.png)
+
+It provides the mathematical and probabilistic logic to determine whether a research hypothesis is true or false using the data collected. 
+
 
 ### Conceptualizing
 
