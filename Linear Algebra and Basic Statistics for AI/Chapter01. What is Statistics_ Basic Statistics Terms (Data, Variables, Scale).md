@@ -9,7 +9,7 @@ The name statistics comes from the Latin word status, which means "state".
 
 **Common research procedures in statistics**
 
-![process[(https://i.imgur.com/z2BX0fz.png)
+![process](https://i.imgur.com/z2BX0fz.png)
 
 It provides the mathematical and probabilistic logic to determine whether a research hypothesis is true or false using the data collected. 
 
