@@ -46,7 +46,7 @@ $P(S) = 1$
 
 $P(A) = {n(A)\over n(S)}$
 
-![pro](https://imgur.com/12ac56b4-b2f6-43a3-8fec-9f9f879011a8)
+![pro](https://i.imgur.com/pLYGYyk.png)
 
 ### Conditional probability
 
@@ -117,7 +117,7 @@ $P(S) = 1$
 
 $P(A) = {n(A)\over n(S)}$
 
-![pro](https://imgur.com/12ac56b4-b2f6-43a3-8fec-9f9f879011a8)
+![pro](https://i.imgur.com/pLYGYyk.png)
 
 ### 조건부 확률
 
