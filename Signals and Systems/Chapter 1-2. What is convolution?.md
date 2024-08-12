@@ -113,7 +113,9 @@ $$
 However, expressing each case separately is not efficient, so it is more appropriate to use the summation symbol:
 
 $$
-x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k] \\
+x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k] 
+$$
+$$
 y[n] = \sum_{k = -\infty} ^{\infty } x[k] h[n-k]
 $$
 
@@ -237,7 +239,9 @@ $$
 이와 같이 각 케이스 별로 표현하기엔 부적절하니, 시그마 기호를 사용해서 나타내는 것이 적절할 것이다.
 
 $$
-x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k] \\
+x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k]
+$$
+$$
 y[n] = \sum_{k = -\infty} ^{\infty } x[k] h[n-k]
 $$
 
