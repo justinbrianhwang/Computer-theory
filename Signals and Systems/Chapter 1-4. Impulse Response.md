@@ -72,9 +72,9 @@ $|y(t|) = | \int x( \tau ) h ( t - \tau ) d \tau | \leq \int |x ( \tau )  h(t - 
 
 $= \int | x(\tau ) | h( t - \tau )| d\tau$ (모든 복소수에 대하여)
 
-$$\int |h(t)dt$$가 수렴할 경우, 이를 $B$라 하자.
+$\int |h(t)dt$가 수렴할 경우, 이를 $B$라 하자.
 
-$$ \int | x(\tau ) | h( t - \tau )| d\tau < B \int |h( t - \tau)| d \tau$$ (수렴)
+$\int | x(\tau ) | h( t - \tau )| d\tau < B \int |h( t - \tau)| d \tau$ (수렴)
 
 즉 해당 함수보다 큰 함수가 수렴하므로 $y(t)$가 수렴한다.
 
