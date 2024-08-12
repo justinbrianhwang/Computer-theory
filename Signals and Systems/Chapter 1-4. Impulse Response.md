@@ -30,9 +30,9 @@ $$|y(t)| = | \int x(\tau) h(t - \tau) d\tau | \leq \int |x(\tau) h(t - \tau)| d\
 
 $$= \int |x(\tau) h(t - \tau)| d\tau$$ (For all complex numbers)
 
-If $$\int |h(t)| dt$$ converges, let's denote this as $B$.
+If $\int |h(t)| dt$ converges, let's denote this as $B$.
 
-$$ \int |x(\tau) h(t - \tau)| d\tau < B \int |h(t - \tau)| d\tau$$ (Converges)
+$\int |x(\tau) h(t - \tau)| d\tau < B \int |h(t - \tau)| d\tau$ (Converges)
 
 Since a larger function converges, $y(t)$ also converges.
 
@@ -68,10 +68,9 @@ $h(t)$를 잘 안다는 의미는, 결국 그 시스템을 잘 안다는 의미�
 
 BIBO Stable system의 기본 조건은 수렴하는 것이다. 
 
-$$|y(t|) = | \int x( \tau ) h ( t - \tau ) d \tau 
-| \leq \int |x ( \tau )  h(t - \tau ) | d \tau$$  
+$|y(t|) = | \int x( \tau ) h ( t - \tau ) d \tau | \leq \int |x ( \tau )  h(t - \tau ) | d \tau$  
 
-$$= \int | x(\tau ) | h( t - \tau )| d\tau$$ (모든 복소수에 대하여)
+$= \int | x(\tau ) | h( t - \tau )| d\tau$ (모든 복소수에 대하여)
 
 $$\int |h(t)dt$$가 수렴할 경우, 이를 $B$라 하자.
 
