@@ -115,6 +115,8 @@ However, expressing each case separately is not efficient, so it is more appropr
 $$
 x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k] 
 $$
+
+
 $$
 y[n] = \sum_{k = -\infty} ^{\infty } x[k] h[n-k]
 $$
@@ -241,6 +243,8 @@ $$
 $$
 x[n] = \sum_{k = -\infty} ^{\infty } x[k] \delta[n-k]
 $$
+
+
 $$
 y[n] = \sum_{k = -\infty} ^{\infty } x[k] h[n-k]
 $$
