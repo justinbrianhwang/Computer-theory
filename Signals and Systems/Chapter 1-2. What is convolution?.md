@@ -208,7 +208,6 @@ $$
 
 $$
 x[n] = 
-
 \begin{cases}
 n=0&3 \delta[n] \\
 n=1&2 \delta[n-1] \\
@@ -228,7 +227,6 @@ $$
 
 $$
 y[n] = 
-
 \begin{cases}
 n=0&3 h[n] \\
 n=1&2 h[n-1] \\
