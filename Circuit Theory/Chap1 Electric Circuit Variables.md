@@ -22,13 +22,13 @@ $$
     y(x,~ t) = A\sin 2 \pi \left( \frac{t}{T} - \frac{x}{\lambda} \right)
 $$
 
-    where $T$ is the period, and $\lambda$ is the wavelength. If $\lambda \gg x$, the amplitude function simplifies to:
+where $T$ is the period, and $\lambda$ is the wavelength. If $\lambda \gg x$, the amplitude function simplifies to:
 
 $$
     y(t) = A \sin \frac{2 \pi t}{T}
 $$
 
-    A system where $\lambda \gg x$ is referred to as a lumped parameter system. 
+A system where $\lambda \gg x$ is referred to as a lumped parameter system. 
 
     The assumption of instantaneous propagation means, for example, that in a circuit connecting the Earth and the Moon, an event at one end is felt immediately at the other end. Consider the scenario where a switch on Earth is flipped at $t = 0$, causing a voltage change at a resistor on the Moon. The voltage change at the resistor on Earth happens simultaneously with the one on the Moon:
 
@@ -38,7 +38,7 @@ $$
 
 2. **The net charge stored in any component within the system is always zero.**
 
-    For example, in a capacitor, while it may appear that a specific charge like $3C$ is stored, the net charge across the capacitor plates is zero since the charges are distributed across the positive and negative plates.
+For example, in a capacitor, while it may appear that a specific charge like $3C$ is stored, the net charge across the capacitor plates is zero since the charges are distributed across the positive and negative plates.
 
 3. **There is no magnetic coupling between components within the system.**
 
@@ -217,17 +217,17 @@ $$
     y(x,~ t) = A\sin 2 \pi \left( \frac{t}{T} - \frac{x}{\lambda} \right)
 $$
 
-    이며, $T$는 주기, $\lambda$는 파장을 의미하는 것이다. 하지만, 위에서 언급한 대로 $\lambda \gg x$이면 진폭함수는 다음과 같다.
+이며, $T$는 주기, $\lambda$는 파장을 의미하는 것이다. 하지만, 위에서 언급한 대로 $\lambda \gg x$이면 진폭함수는 다음과 같다.
 
 $$
     y(t) = A \sin \frac{2 \pi t}{T}
 $$
 
-    이때,  $\lambda \gg x$가 성립하는 시스템을 집중 정수계라 한다.
+이때,  $\lambda \gg x$가 성립하는 시스템을 집중 정수계라 한다.
 
-    그렇다면 위에서 언급한 순간적으로 전파된다는 말은 무슨 의미일까? 예를 들어 지구와 달을 연결한 긴 회로가 있다고 가정하자.
+그렇다면 위에서 언급한 순간적으로 전파된다는 말은 무슨 의미일까? 예를 들어 지구와 달을 연결한 긴 회로가 있다고 가정하자.
 
-    그렇다면 아래의 그림과 같은 상황이 발생한다.
+그렇다면 아래의 그림과 같은 상황이 발생한다.
 
     ![earth moon](https://i.imgur.com/iBDy0Ws.png)
 
@@ -235,7 +235,7 @@ $$
 
     ![earth moon2](https://i.imgur.com/9Qbihz7.png)
 
-    누르는 동시에 달에 있는 저항과 스위치 옆에 바로 있는 저항에 동시에 $2V$로 전압이 잡히게 되는 것이다.
+   누르는 동시에 달에 있는 저항과 스위치 옆에 바로 있는 저항에 동시에 $2V$로 전압이 잡히게 되는 것이다.
 
 2. **시스템 내의 각 소자의 저장 전하량은 항상 0이다.**
 
