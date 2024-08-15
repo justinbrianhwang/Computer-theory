@@ -84,17 +84,21 @@ $$
 A=\begin{bmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
 \end{bmatrix}
-
-A^T
-=
+A^T =
 \begin{bmatrix}
 7 & 2 & 14\\ 3 &9 & 8 
 \end{bmatrix}
 $$
 
+
+
 ### Tensor
 
 A tensor is a collection of matrices as its elements.
+
+
+
+
 
 # Korean
 
@@ -182,9 +186,7 @@ $$
 A=\begin{bmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
 \end{bmatrix}
-
-A^T
-=
+A^T =
 \begin{bmatrix}
 7 & 2 & 14\\ 3 &9 & 8 
 \end{bmatrix}
