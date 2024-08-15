@@ -30,11 +30,11 @@ $$
 
 A system where $\lambda \gg x$ is referred to as a lumped parameter system. 
 
-    The assumption of instantaneous propagation means, for example, that in a circuit connecting the Earth and the Moon, an event at one end is felt immediately at the other end. Consider the scenario where a switch on Earth is flipped at $t = 0$, causing a voltage change at a resistor on the Moon. The voltage change at the resistor on Earth happens simultaneously with the one on the Moon:
+The assumption of instantaneous propagation means, for example, that in a circuit connecting the Earth and the Moon, an event at one end is felt immediately at the other end. Consider the scenario where a switch on Earth is flipped at $t = 0$, causing a voltage change at a resistor on the Moon. The voltage change at the resistor on Earth happens simultaneously with the one on the Moon:
 
-    ![earth moon](https://i.imgur.com/iBDy0Ws.png)
+![earth moon](https://i.imgur.com/iBDy0Ws.png)
 
-    ![earth moon2](https://i.imgur.com/9Qbihz7.png)
+![earth moon2](https://i.imgur.com/9Qbihz7.png)
 
 2. **The net charge stored in any component within the system is always zero.**
 
@@ -229,11 +229,11 @@ $$
 
 그렇다면 아래의 그림과 같은 상황이 발생한다.
 
-    ![earth moon](https://i.imgur.com/iBDy0Ws.png)
+![earth moon](https://i.imgur.com/iBDy0Ws.png)
 
-    초기 상황은 다음과 같다. $t=0$에서 스위치를 누르는 것이다. 달에 위치한 저항은 현재는 $0V$이다. 하지만 $t= 0$ 에서 스위치를 누른 상황을 생각해보자.
+초기 상황은 다음과 같다. $t=0$에서 스위치를 누르는 것이다. 달에 위치한 저항은 현재는 $0V$이다. 하지만 $t= 0$ 에서 스위치를 누른 상황을 생각해보자.
 
-    ![earth moon2](https://i.imgur.com/9Qbihz7.png)
+![earth moon2](https://i.imgur.com/9Qbihz7.png)
 
    누르는 동시에 달에 있는 저항과 스위치 옆에 바로 있는 저항에 동시에 $2V$로 전압이 잡히게 되는 것이다.
 
