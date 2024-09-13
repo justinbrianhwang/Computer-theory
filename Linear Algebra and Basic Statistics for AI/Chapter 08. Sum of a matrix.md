@@ -17,12 +17,12 @@ $$
 7
 \end{vmatrix}
 = \mathbb{R}^1
-, ~~~ 
+, 
 \begin{vmatrix}
 7\\2
 \end{vmatrix}
 = \mathbb{R^2 }
-, ~~~
+, 
 
 \begin{vmatrix}
 7\\2 \\ 3
@@ -119,12 +119,12 @@ $$
 7
 \end{vmatrix}
 = \mathbb{R}^1
-, ~~~ 
+,  
 \begin{vmatrix}
 7\\2
 \end{vmatrix}
 = \mathbb{R^2 }
-, ~~~
+, 
 
 \begin{vmatrix}
 7\\2 \\ 3
