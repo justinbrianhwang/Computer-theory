@@ -13,20 +13,20 @@ In linear algebra, vectors typically refer to column vectors. These are lists, a
 **Dimensions of a Vector**
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 7
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R}^1
 , ~~~ 
-\begin{bmatrix}
+\begin{vmatrix}
 7\\2
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R^2 }
 , ~~~
 
-\begin{bmatrix}
+\begin{vmatrix}
 7\\2 \\ 3
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R^3}
 $$
 
@@ -37,30 +37,30 @@ These are referred to as 1-dimensional, 2-dimensional, and 3-dimensional vectors
 Vector addition is performed by adding the corresponding elements, similar to how scalar addition works.
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 3
-\end{bmatrix}
+\end{vmatrix}
 +
-\begin{bmatrix}
+\begin{vmatrix}
 5
-\end{bmatrix}
+\end{vmatrix}
 =
-\begin{bmatrix}
+\begin{vmatrix}
 8
-\end{bmatrix} 
+\end{vmatrix} 
 \\ 
 \\
-\begin{bmatrix}
+\begin{vmatrix}
 7 \\ 2
-\end{bmatrix}
+\end{vmatrix}
 + 
-\begin{bmatrix}
+\begin{vmatrix}
 7 \\ 3
-\end{bmatrix}
+\end{vmatrix}
 = 
-\begin{bmatrix}
+\begin{vmatrix}
 14 \\ 5
-\end{bmatrix}
+\end{vmatrix}
 $$
 
 ### Matrix
@@ -68,9 +68,9 @@ $$
 A matrix is a 2-dimensional array composed of vectors as its elements.
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R}^{3 \times 2}
 $$
 
@@ -81,13 +81,13 @@ Matrix addition works the same way as vector addition, by adding corresponding e
 The transpose of a matrix is obtained by swapping its rows and columns. Consider the following example:
 
 $$
-A=\begin{bmatrix}
+A=\begin{vmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
-\end{bmatrix}
+\end{vmatrix}
 A^T =
-\begin{bmatrix}
+\begin{vmatrix}
 7 & 2 & 14\\ 3 &9 & 8 
-\end{bmatrix}
+\end{vmatrix}
 $$
 
 
@@ -115,20 +115,20 @@ A tensor is a collection of matrices as its elements.
 **벡터의 차원**
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 7
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R}^1
 , ~~~ 
-\begin{bmatrix}
+\begin{vmatrix}
 7\\2
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R^2 }
 , ~~~
 
-\begin{bmatrix}
+\begin{vmatrix}
 7\\2 \\ 3
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R^3}
 $$
 
@@ -139,30 +139,30 @@ $$
 스칼라의 합과 동일하게, 각 원소를 더하면 된다.
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 3
-\end{bmatrix}
+\end{vmatrix}
 +
-\begin{bmatrix}
+\begin{vmatrix}
 5
-\end{bmatrix}
+\end{vmatrix}
 =
-\begin{bmatrix}
+\begin{vmatrix}
 8
-\end{bmatrix} 
+\end{vmatrix} 
 \\ 
 \\
-\begin{bmatrix}
+\begin{vmatrix}
 7 \\ 2
-\end{bmatrix}
+\end{vmatrix}
 + 
-\begin{bmatrix}
+\begin{vmatrix}
 7 \\ 3
-\end{bmatrix}
+\end{vmatrix}
 = 
-\begin{bmatrix}
+\begin{vmatrix}
 14 \\ 5
-\end{bmatrix}
+\end{vmatrix}
 $$
 
 ### 행렬
@@ -170,9 +170,9 @@ $$
 행렬은 벡터를 원소로 가지는 2차원 배열이다.
 
 $$
-\begin{bmatrix}
+\begin{vmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
-\end{bmatrix}
+\end{vmatrix}
 = \mathbb{R}^{3 \times 2}
 $$
 
@@ -183,13 +183,13 @@ $$
 전치 행렬은 원래 행렬의 행과 열을 바꾸는 것이다. 다음을 보자.
 
 $$
-A=\begin{bmatrix}
+A=\begin{vmatrix}
 7 & 3\\ 2 &9 \\ 14 & 8
-\end{bmatrix}
+\end{vmatrix}
 A^T =
-\begin{bmatrix}
+\begin{vmatrix}
 7 & 2 & 14\\ 3 &9 & 8 
-\end{bmatrix}
+\end{vmatrix}
 $$
 
 ### 텐서
