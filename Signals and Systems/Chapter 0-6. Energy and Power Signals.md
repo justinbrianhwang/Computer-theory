@@ -45,7 +45,7 @@ A power signal diverges in energy, but its power converges to a non-zero value.
 This distinction becomes clearer with an example:
 
 $$
-x(t) = \begin{cases}1-\left|t\right|&\left|t\right| \leq1 # 0&\text{otherwise}\end{cases}
+x(t) = \begin{cases}1-\left|t\right|&\left|t\right| \leq1 \\ 0&\text{otherwise}\end{cases}
 $$
 
 When this signal is plotted, it appears as follows:
@@ -103,7 +103,7 @@ $$
 이 부분은 예제를 보면서 생각해야 쉬울 것이다. 
 
 $$
-x(t) = \begin{cases}1-\left|t\right|&\left|t\right| \leq1 # 0&\text{otherwise}\end{cases}
+x(t) = \begin{cases}1-\left|t\right|&\left|t\right| \leq1 \\ 0&\text{otherwise}\end{cases}
 $$
 
 위의 신호를 그림으로 표현하면 아래와 같다. 
