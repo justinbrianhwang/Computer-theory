@@ -67,7 +67,9 @@ This directory contains organized notes and materials summarizing key concepts i
 
 ### **Chapter 08: Advanced Tree**
 8.1 AVL Tree
+
 8.2 B Tree
+
 8.3 B+ Tree
 
 ### **Chapter 09: Hashing**
