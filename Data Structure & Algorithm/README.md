@@ -65,21 +65,13 @@ This directory contains organized notes and materials summarizing key concepts i
 - 7.2.6 Heap Sort
 - 7.2.7 Radix Sort
 
-### **Chapter 08: Searching Algorithms**
-8.1 Basic Searching Techniques  
-- 8.1.1 Linear Search
-- 8.1.2 Binary Search
-8.2 Advanced Searching Techniques  
-- 8.2.1 Hashing
-- 8.2.2 Search Trees
+### **Chapter 08: Advanced Tree**
+8.1 AVL Tree
+8.2 B Tree
+8.3 B+ Tree
 
-### **Chapter 09: Algorithm Analysis**
-9.1 Performance Analysis  
-- 9.1.1 Time Complexity
-- 9.1.2 Space Complexity
-9.2 Big O Notation  
-- 9.2.1 Understanding Big O
-- 9.2.2 Common Big O Examples
+### **Chapter 09: Hashing**
+9.1 Hashing
 
 ## Purpose
 
