@@ -15,7 +15,7 @@ $$
 Subtracting the energy expression of this finite approximation from the original function’s energy expression, we get:
 
 $$
-\int_{T_0} \left| x_{T_0}(t) - \hat{x}_{T_0}(t) \right|^2 \, dt
+\int_{T_0} \left| x_{T_0}(t) - \hat{x}_{T_0}(t) \right|^2  dt
 $$
 
 If $N \to \infty$, the result of this integral becomes $0$. This means the two functions are equal.
@@ -47,7 +47,7 @@ $$
 이제, 원래 함수의 에너지 식에서 위의 유한 합으로 정의한 함수의 에너지 식을 빼면 다음과 같은 형태가 된다:
 
 $$
-\int_{T_0} \left| x_{T_0}(t) - \hat{x}_{T_0}(t) \right|^2 \, dt
+\int_{T_0} \left| x_{T_0}(t) - \hat{x}_{T_0}(t) \right|^2  dt
 $$
 
 만약 $N \to \infty$라면, 이 식의 값은 $0$이 된다. 즉, 두 함수가 같아진다는 의미이다.
@@ -57,8 +57,8 @@ $$
 이를 만족하는 식이 바로 **디리클레 조건**이다:
 
 1. $\int_{T_0} \left| x_{T_0}(t) \right| \, dt < \infty$: 즉, 함수는 절대 적분이 가능해야 한다.
-2. 함수의 **최솟값(min)**과 **최댓값(max)**이 유한해야 한다.
-3. **불연속점(discontinuity)**이 유한해야 한다.
+2. 함수의 **최솟값(min)** 과 **최댓값(max)** 이 유한해야 한다.
+3. **불연속점(discontinuity)** 이 유한해야 한다.
 
 위의 3가지 조건을 잘 기억하고 넘어가자.
 
