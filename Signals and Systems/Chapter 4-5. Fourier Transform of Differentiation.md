@@ -94,7 +94,7 @@ $$
 이제, $H(\omega)$를 **역 푸리에 변환**하면 다음과 같다:
 
 $$
-\mathcal{F^{-1}}\{H(\omega)\}=\mathcal{F^{-1}}\left\{3-\frac{5}{2+j\omega}\right\} = 3\delta(t) - 5e^{-2t}u(t)
+\mathcal{F^{-1}}\{H(\omega)\}=\mathcal{F^{-1}}\left{3-\frac{5}{2+j\omega}\right} = 3\delta(t) - 5e^{-2t}u(t)
 $$
 
 따라서, 미분 방정식이 **쉽게 풀림**을 알 수 있다.
