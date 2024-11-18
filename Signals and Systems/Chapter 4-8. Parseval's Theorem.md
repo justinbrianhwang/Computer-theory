@@ -25,7 +25,7 @@ $$
 Similarly, express $x_2^*(t)$ as:
 
 $$
-x_2^*(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X_2^*(-\omega) e^{j\omega t} \, d\omega
+x_2^*(t) = \frac{1}{2\pi}\int_{-\infty}^{\infty} X_2^*(-\omega) e^{j\omega t} \, d\omega
 $$
 
 Substitute $-\omega = \omega'$, then $x_2^*(t)$ becomes:
