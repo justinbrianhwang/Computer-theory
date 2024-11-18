@@ -43,7 +43,7 @@ $$
 Finally, the **inverse Fourier Transform** of $H(\omega)$ is:
 
 $$
-\mathcal{F^{-1}}\{H(\omega)\} = \mathcal{F^{-1}}\left\{3 - \frac{5}{2 + j\omega}\right\} = 3\delta(t) - 5e^{-2t} u(t)
+\mathcal{F^{-1}}\{H(\omega)\} = \mathcal{F^{-1}}\left(3-\frac{5}{2+j\omega}\right) = 3\delta(t) - 5e^{-2t}u(t)
 $$
 
 This demonstrates that the differential equation can be **easily solved** using the Fourier Transform.
