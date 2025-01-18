@@ -74,6 +74,8 @@ Manually controlling hardware is inefficient and impractical. For example:
 
 ## Functions of Operating Systems
 
+![func](https://i.imgur.com/IwQxoWa.png)
+
 ### Resource Management
 1. **Memory Management:**
    - Manages main and secondary memory
@@ -172,6 +174,8 @@ Manually controlling hardware is inefficient and impractical. For example:
 ---
 
 ## 운영체제의 기능 (Functions of Operating Systems)
+
+![func](https://i.imgur.com/IwQxoWa.png)
 
 ### 자원 관리 (Resource Management)
 1. **메모리 관리:**
