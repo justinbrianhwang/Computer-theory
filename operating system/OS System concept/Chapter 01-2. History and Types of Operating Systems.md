@@ -24,6 +24,8 @@
 - The **Electronic Numerical Integrator and Computer** (ENIAC) was the first electronic computer.
 - Operated using vacuum tubes and without an OS.
 
+![Eniac](https://i.imgur.com/kaBjatc.png)
+
 ---
 
 ### Batch Processing System (1950s)
@@ -31,6 +33,8 @@
 - **Concept:** Group tasks and process them sequentially.
 - **Advantages:** Efficient use of computing resources, minimal idle time.
 - **Challenges:** Priority assignment, slower I/O devices causing delays.
+
+![Batch Processing](https://i.imgur.com/4mIJ8i9.png)
 
 ---
 
@@ -41,10 +45,18 @@
 - Users interacted with programs via monitors and keyboards.
 - Applications like document editing and games became feasible.
 
+![Interactive System](https://i.imgur.com/5npBiB1.png)
+
+---
+
 ### Multiprogramming Systems
 
 - Multiple programs shared CPU time, increasing efficiency.
 - Required complex memory management and scheduling.
+
+![Multiprogramming](https://i.imgur.com/DAOqtJk.png)
+
+---
 
 ### Time-Sharing Systems
 
@@ -60,15 +72,23 @@
 - Utilized multiple processors for parallel operations.
 - Reliable as system operation continued even if one processor failed.
 
+![Multiprocessing Unit](https://i.imgur.com/6Sho11w.png)
+
+---
+
 ### Real-Time Systems
 
 - Ensured timely responses for time-critical applications.
 - Always online and maintained strict timing requirements.
 
+---
+
 ### Multi-User Systems
 
 - Supported multiple users simultaneously, leading to server-client architecture.
 - Early UNIX implementations influenced modern OS designs.
+
+---
 
 ### Distributed Systems
 
@@ -84,15 +104,22 @@
 - Virtualized computing resources delivered as a service.
 - Enabled on-demand scalability and pay-as-you-use pricing models.
 
+---
+
 ### Internet of Things (IoT)
 
 - Connected devices enabled automated data collection and processing.
 - Revolutionized industries like healthcare, logistics, and smart homes.
 
+---
+
 ### Peer-to-Peer (P2P) Systems
 
 - Eliminated central servers by enabling direct communication between users.
 - Examples include Napster, torrent systems, and messaging apps.
+
+![P2P Systems](https://i.imgur.com/yMS5FGi.png)
+
 
 # Korean
 
